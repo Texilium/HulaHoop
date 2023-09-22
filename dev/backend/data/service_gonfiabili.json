@@ -1,0 +1,50 @@
+{ "gonfiabili":[
+    {
+        "idx":"caption 1",
+    "caption":"caption 1",
+    "text":"text 1",
+    "image":"https://picsum.photos/1024/480/?image=52",
+    "url":"https://www.facebook.com/hulahoop.corato/videos/tutti-in-fattoria20%EF%B8%8F/352739504031631",
+    "url_name":"Festa di compleanno",
+    "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_facebook":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_tiktok":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_twitter":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius"
+    },{
+        "idx":"caption 2",
+    "caption":"caption 2",
+    "text":"text 2",
+    "image":"https://picsum.photos/1024/480/?image=53",
+    "url":"https://www.facebook.com/hulahoop.corato/posts/pfbid0Woa1te2HewV8e3TwkXqXzhQucspReGP24VzKssgGYvfieGYBRoKC6cjV66aUzJ8Dl",
+    "url_name":"Gita",
+    "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_facebook":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_tiktok":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_twitter":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius"
+    },
+    {
+        "idx":"caption 3",
+    "caption":"caption 3",
+    "text":"text 3",
+    "image":"https://picsum.photos/1024/480/?image=54",
+    "url":"https://www.facebook.com/hulahoop.corato/videos/tutti-in-fattoria20%EF%B8%8F/352739504031631",
+    "url_name":"Festa di compleanno",
+    "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_facebook":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_tiktok":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_twitter":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius"
+    },{
+        "idx":"caption 4",
+    "caption":"caption 4",
+    "text":"text 4",
+    "image":"https://picsum.photos/1024/480/?image=55",
+    "url":"https://www.facebook.com/hulahoop.corato/posts/pfbid0Woa1te2HewV8e3TwkXqXzhQucspReGP24VzKssgGYvfieGYBRoKC6cjV66aUzJ8Dl",
+    "url_name":"Gita",
+    "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_facebook":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_tiktok":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+    "social_twitter":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius"
+    }
+    ]
+
+}

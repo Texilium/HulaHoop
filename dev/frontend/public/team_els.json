@@ -1,0 +1,67 @@
+{
+    "team_els":[ 
+        {    "idx":"Mario Rossi",
+            "real_name":"Mario Rossi",
+        "fantasy_name":"Pippo",
+        "age":35,
+        "sex":"M",
+        "motto":"test 1",
+        "description":"But I must explain to you how all this mistaken idea of denouncing pleasure",
+        "skills":["canto","ballo","canto","ballo","canto","ballo","canto","ballo","canto","ballo","canto","ballo","canto","ballo","canto","ballo","canto","ballo"],
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hivisasa.com%2F1200%2FIt9Rrm02rE20.jpg&f=1&nofb=1&ipt=c2258f1b9e3145e5fe0c64e8f79160df6f073fb197fc2eaa9195904f5d1addc6&ipo=images",
+        "role":"test",
+        "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_facebook":"",
+        "social_tiktok":"",
+        "social_twitter":""
+        },
+        { "idx":"Maria Rossi",
+        "real_name":"Maria Rossi",
+        "fantasy_name":"Minnie",
+        "age":15,
+        "sex":"F",
+        "motto":"test 2",
+        "description":"But I must explain to you how all thi",
+        "skills":["cucina"],
+        "image":"https://i.pinimg.com/originals/6f/ca/50/6fca507aaa402c7be46c6410daa9c73f.jpg",
+        "role":"test",
+        "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_facebook":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_tiktok":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_twitter":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius"
+
+        },
+        { "idx":"Carla Rossi",
+        "real_name":"Carla Rossi",
+        "fantasy_name":"Minnie",
+        "age":17,
+        "sex":"F",
+        "motto":"test 2",
+        "description":"asdasd",
+        "skills":["cucina"],
+        "image":"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newdesignfile.com%2Fpostpic%2F2010%2F05%2Ffree-stock-photos-people_102217.jpg&f=1&nofb=1&ipt=b229fb0dc9ac64c1afa9eefbf0fb50a7bfc41d3df81bdeef59f6e7066d050adf&ipo=images",
+        "role":"test",
+        "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_facebook":"",
+        "social_tiktok":"",
+        "social_twitter":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius"
+
+        },
+        {"idx":"Maria Rossi",
+        "real_name":"Maria Rossi",
+        "fantasy_name":"Minnie",
+        "age":15,
+        "sex":"F",
+        "motto":"test 2",
+        "description":"asdasd",
+        "skills":["cucina"],
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvfringe.co.uk%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F05%2F95e746727668-small_phoyo-scaled.jpg&f=1&nofb=1&ipt=8bc9ed69d541952d344439af97bf0fb4d335894cf03ce48b0295274aeb49114c&ipo=images",
+        "role":"test",
+        "social_instagram":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_facebook":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_tiktok":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius",
+        "social_twitter":"https://stackoverflow.com/questions/31617136/avoid-elliptical-shape-in-css-border-radius"
+
+        }
+    ]
+}
